@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87bab99c-f838-49a5-9e89-d2b534742828" name="Default Changelist" comment="" />
+    <list default="true" id="87bab99c-f838-49a5-9e89-d2b534742828" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/mu-plugins/university-post-types.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/mu-plugins/university-post-types.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/inc/search-route.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/inc/search-route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/modules/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/modules/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/scripts-bundled.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/scripts-bundled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/single-program.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/single-program.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +29,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RMwqZYkFtcmDKPGaR7QG9Gbuq9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -105,12 +119,26 @@
       <workItem from="1573583940531" duration="3010000" />
       <workItem from="1573654072522" duration="1902000" />
       <workItem from="1573660918257" duration="1101000" />
-      <workItem from="1573719227387" duration="12284000" />
+      <workItem from="1573719227387" duration="15643000" />
+      <workItem from="1573807001396" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>$PROJECT_DIR$</wordpressPath>
