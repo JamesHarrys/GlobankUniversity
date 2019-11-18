@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bab99c-f838-49a5-9e89-d2b534742828" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/mu-plugins/university-post-types.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/mu-plugins/university-post-types.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/inc/search-route.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/inc/search-route.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/modules/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/modules/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/scripts-bundled.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/scripts-bundled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/single-program.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/single-program.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/custom-theme/js/scripts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +119,8 @@
       <workItem from="1573654072522" duration="1902000" />
       <workItem from="1573660918257" duration="1101000" />
       <workItem from="1573719227387" duration="15643000" />
-      <workItem from="1573807001396" duration="350000" />
+      <workItem from="1573807001396" duration="6210000" />
+      <workItem from="1574065048249" duration="8816000" />
     </task>
     <servers />
   </component>
